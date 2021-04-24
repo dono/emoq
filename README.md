@@ -1,0 +1,2 @@
+# emoq
+Quantifying emotion
